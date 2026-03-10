@@ -49,6 +49,8 @@
 - 🪞 **不隐藏弱点** — 明确规则："不要隐藏弱点来骗高分"
 - 🔧 **先修后审** — 必须实现修复后再重新 review，不能只承诺修
 
+📝 **博客：** [开源 | 睡觉 Claude 自动跑实验改文](http://xhslink.com/o/5cBMTDigNXz)
+
 ### 工作流 2：文献调研与找 Idea 🔍
 
 > "这个领域最新进展是什么？哪里有 gap？"
@@ -61,6 +63,8 @@
 3. /research-review "我的 idea 是用 X 来解决 Y"   ← 让外部 LLM 批判你的想法
 4. 根据反馈迭代
 ```
+
+📝 **博客：** [Claude Code 两月 NeurIPS 指北](http://xhslink.com/o/7IvAJQ41IBA)
 
 ---
 

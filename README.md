@@ -63,6 +63,8 @@ These skills are designed to be composed into two main research workflows:
 - 🪞 **No hiding weaknesses** — explicit rule: "Do NOT hide weaknesses to game a positive score"
 - 🔧 **Fix before re-review** — must actually implement fixes before resubmitting; no empty promises
 
+📝 **Blog post:** [开源 | 睡觉 Claude 自动跑实验改文](http://xhslink.com/o/5cBMTDigNXz)
+
 ### Workflow 2: Literature & Idea Discovery 🔍
 
 > **"What's the state of the art? Where are the gaps?"**
@@ -91,6 +93,8 @@ These skills are designed to be composed into two main research workflows:
 ```
 
 **Skills involved:** `research-lit` + `research-review`
+
+📝 **Blog post:** [Claude Code 两月 NeurIPS 指北](http://xhslink.com/o/7IvAJQ41IBA)
 
 ---
 

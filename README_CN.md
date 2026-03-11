@@ -133,6 +133,11 @@ Skills 就是普通的 Markdown 文件，fork 后随意改：
 - **Prompt 模板** — 定制评审人格和评估标准
 - **`allowed-tools`** — 限制或扩展每个 skill 可用的工具
 
+## 📋 Roadmap
+
+- [ ] **GLM-5（执行者）+ Minimax-2.1（评审者）** — 与 Claude Code + Codex 平行的跨模型组合
+- [ ] 更多执行者 × 评审者组合（Gemini、DeepSeek 等）
+
 ## 💬 交流群
 
 欢迎加入微信群，交流 Claude Code + AI 科研工作流：

@@ -199,6 +199,11 @@ Skills are plain Markdown files. Fork and customize:
 - **Prompt templates** — tailor the review persona and evaluation criteria
 - **`allowed-tools`** — restrict or expand what each skill can do
 
+## 📋 Roadmap
+
+- [ ] **GLM-5 (executor) + Minimax-2.1 (reviewer)** — alternative cross-model pair, same architecture as Claude Code + Codex
+- [ ] More executor × reviewer combinations (Gemini, DeepSeek, etc.)
+
 ## 💬 Community
 
 Join the WeChat group for discussion on Claude Code + AI-driven research workflows:
